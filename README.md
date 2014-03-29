@@ -31,8 +31,4 @@ this gem in conjucntion with [compass-twitter-bootstrap] (https://github.com/vwa
 
     *= require jasny-bootstrap
 
-**And if you also want jasny's responsive**
-
-    *= require jasny-bootstrap-responsive
-
 
